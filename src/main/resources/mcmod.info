@@ -12,5 +12,19 @@
   "logoFile": "",
   "screenshots": [],
   "dependencies": []
+},
+{
+  "modid": "samplemod",
+  "name": "Sample Mod",
+  "description": "Sample mod by durandal.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["durandal"],
+  "credits": "durandal",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
 }
 ]
